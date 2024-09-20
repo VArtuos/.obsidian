@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "78e77121148e5c32",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea081dd4a0a925f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54948f22c5d125f6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "aa44b4bf858dc24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "triângulos que não são retângulos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93223b98cd750722",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9a98235f3b2b3b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c03a48df0aef6fab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "8fdd4e6aea093033",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ac192d5a5995f45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "442b91d30bfc4ad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "05d8482200fe0a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b6b7967b3ab28f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "triângulos que não são retângulos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1dfdaa400795131",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "triângulos que não são retângulos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d989bcd12aacf300",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d80c9edd6f9935e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "triângulos que não são retângulos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "aa44b4bf858dc24e",
+  "lastOpenFiles": [
+    "LEI DOS SENOS.md",
+    "LEI DOS COSSENOS.md",
+    "REVISÃO MATEMÁTICA.md",
+    "Sem título.canvas",
+    "triângulos que não são retângulos.md",
+    "desktop.ini",
+    "GoogleDriveSetup.exe",
+    "GoogleDriveSetup.exe.opdownload",
+    "IMAGENS/download.jpeg",
+    "IMAGENS/triangulo-usado-para-derivar-a-lei-dos-cossenos.webp",
+    "IMAGENS/Untitled-2(39).webp",
+    "Untitled-2(39).webp.opdownload",
+    "Sem título.md",
+    "IMAGENS",
+    "triangulo-usado-para-derivar-a-lei-dos-cossenos.webp.opdownload",
+    "2024-09-18.md"
+  ]
+}
